@@ -51,8 +51,8 @@ I used bar charts to show the top 10 countries of birth for LPRs by year to look
 
 ### SOURCES
 This information was downloaded from:
-(https://www.dhs.gov/immigration-statistics/readingroom/LPR/LPRcounty)
+- https://www.dhs.gov/immigration-statistics/readingroom/LPR/LPRcounty
 
 Further information was found at:
-(https://www.dhs.gov/immigration-statistics/lawful-permanent-residents/ImmigrantCOA)
-(https://www.dhs.gov/disclosure-policy-office-immigration-statistics)
+- https://www.dhs.gov/immigration-statistics/lawful-permanent-residents/ImmigrantCOA
+- https://www.dhs.gov/disclosure-policy-office-immigration-statistics
