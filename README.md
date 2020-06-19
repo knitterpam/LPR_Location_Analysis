@@ -9,6 +9,7 @@
 * [Analytical Approach](#analytical-approach)
 * [Tools Used](#tools-used)
 * [Sources](#sources)
+* [Tableau Story](#tableau-story)
 
 ### MOTIVATION
 Since 2013 I have transcribed immgration hearings for a company contracted to the Department of Justice (DOJ).  I primarily transcribe hearings for illegal immigrants, but I wanted to know more about where legal permanent residents (hereafter "LPR" or "LPRs") have arrived from, where they tend to settle, and changes in their migration pattern over the past decade.  I also wanted to know what class of admission they came in under and how that pattern has changed, if at all, in the same time perio.  I explored the following:
@@ -30,7 +31,7 @@ To answer these questions, I used LPR immigration data provided by the Departmen
 
 I created a map in Tableau showing by county where the top 10 concentrations of LPRs are located by year and also a map showing the countries where the top 10 highest LPR grouped admissions were born.
 
-![--map sample to be added here--](./images/xxxxx.jpg)
+![LPRs_by_state_map](./images/State_Map_DB.png)
 
 I used bar and pie charts to show the top 10 countries of birth for LPRs by year to look at the changes in where LPRs are coming from.  I also created a line chart showing the fluctuations in each major class of admission.  These seem to correlate to world events or political changes (such as a change in U.S. president or political party) and may show a trend in certain areas.
 
@@ -58,3 +59,9 @@ Further information was found at:
 - https://www.dhs.gov/immigration-statistics/lawful-permanent-residents/ImmigrantCOA
 - https://www.dhs.gov/disclosure-policy-office-immigration-statistics
 - https://www.dhs.gov/immigration-statistics/lawful-permanent-residents/ImmigrantCOA
+- https://www.usatoday.com/story/news/nation/2019/11/13/chicago-ranked-top-city-immigrants-new-american-economy-says/4182404002/
+-https://www.americanimmigrationcouncil.org/research/immigrants-in-washington
+
+### TABLEAU STORY
+Please follow this link to see my analysis and conclusions in Tableau Story format.  This Story is stored on Tableau Public.
+https://public.tableau.com/profile/pam.butler#!/vizhome/LPR_Location_Analysis_2007_to_2018/LPRAnalysis
