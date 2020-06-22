@@ -60,7 +60,7 @@ Further information was found at:
 - https://www.dhs.gov/disclosure-policy-office-immigration-statistics
 - https://www.dhs.gov/immigration-statistics/lawful-permanent-residents/ImmigrantCOA
 - https://www.usatoday.com/story/news/nation/2019/11/13/chicago-ranked-top-city-immigrants-new-american-economy-says/4182404002/
--https://www.americanimmigrationcouncil.org/research/immigrants-in-washington
+- https://www.americanimmigrationcouncil.org/research/immigrants-in-washington
 
 ### TABLEAU STORY
 Please follow this link to see my analysis and conclusions in Tableau Story format.  This Story is stored on Tableau Public.
