@@ -12,7 +12,7 @@
 * [Tableau Story](#tableau-story)
 
 ### MOTIVATION
-Since 2013 I have transcribed immgration hearings for a company contracted to the Department of Justice (DOJ).  I primarily transcribe hearings for undocumented immigrants, but I wanted to know more about where lawful permanent residents (hereafter "LPR" or "LPRs") have arrived from, where they tend to settle, and changes in their resettlement patterns over the past decade.  I also wanted to know what class of admission they came in under and how that pattern has changed, if at all, in the same time period.  I explored the following:
+Since 2013 I have transcribed immigration hearings for a company contracted to the Department of Justice (DOJ).  I primarily transcribe hearings for undocumented immigrants, but I wanted to know more about where lawful permanent residents (hereafter "LPR" or "LPRs") have arrived from, where they tend to settle, and changes in their resettlement patterns over the past decade.  I also wanted to know what class of admission they came in under and how that pattern has changed, if at all, in the same time period.  I explored the following:
 
 - What is the most common major class of admission (grouped into the six major categories, as the data contained a number of subgroups within each type) and how that has changed, if at all, over the period 2007-2018?
 - What are the countries of birth of the top 10 of LPR admissions over the past decade? How have these concentrations changed over that time period?
