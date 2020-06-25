@@ -1,7 +1,7 @@
-# Legal Permanent Resident (LPR) Analysis, 2007-2018
+# Lawful Permanent Resident (LPR) Analysis, 2007-2018
 ![DHS logo](./images/DHS_logo.png)
 
-## Analysis of Legal Permanent Residents (LPR) by Country of Birth, County of Current Residence, and Class of Admission
+## Analysis of Lawful Permanent Residents (LPR) by Country of Birth, County of Current Residence, and Class of Admission
 
 ## TABLE OF CONTENTS
 * [Motivation](#motivation)
@@ -26,7 +26,7 @@ To answer these questions, I used LPR immigration data provided by the Departmen
 ### ANALYTICAL APPROACH
 #### Known Issues and Challenges:
 - There were many entries in the `Admissions` column denoted by a `D`.  According to the DHS data website, the D indicates the number is <=3, which may result in a lack of privacy for the LPR if specified.  I replaced the `D` entries with a 1 so that the column could then be converted to an integer type for calculation purposes.  Fully deleting these rows might better represent the diversity in the data.
-- The LPR tables are limited to top 200 U.S. ounties by size of admission. Only state and county are listed (not city) for current LPR location.  I further limited the data in the mapping to the top 20 counties (which turned out to be located only 9-10 states) to provide a clear visualization.
+- The LPR tables are limited to top 200 U.S. counties by size of admission. Only state and county are listed (not city) for current LPR location.  I further limited the data in the mapping to the top 20 counties (which turned out to be located only 9-10 states) to provide a clear visualization.
 
 
 I created maps in Tableau showing by top 10 states and then top 20 counties where large concentrations of LPRs are located over the decade and by individual year, as well as a map showing the countries where the top 10 highest admissions of LPRs were born.
